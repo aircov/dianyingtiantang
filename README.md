@@ -1,4 +1,4 @@
 # dianyingtiantang
 dianyingtiantang Spider
 
-pyhton3 multithread download magent from dianyingtiantang
+Pyhton3 multithread download magent from dianyingtiantang by requests
